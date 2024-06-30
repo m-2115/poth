@@ -1,0 +1,67 @@
+# Pothole_Detection_and_filling_bot
+
+This is the project titled **‘Pothole Detection and filling bot’** by **Ch.Manvith,
+S.Alekhya ,T.Abhishek, D.Nishmitha, G.Sai kiran, Ch.Jayalakshmi, G.Karthik,Afif Mansur Baig**. 
+This is a record of the project work carried out by us, during the year **2024-2025** as part of **INDUCTION** under the guidance and supervision of **Mr. Aarushraj Puduchery & Mr. G. Kovidh Addhish** (Technical Heads) and **Mr. N V V S Narayana** (The President of THE ROBOTICS CLUB)
+
+## Abstract
+
+## Introduction
+
+## Problem Statement
+**Revolutionizing Pothole Management**
+Potholes, worsened by heavy rains, pose hazards to motorists and pedestrians, causing accidents, vehicle damage, and infrastructure issues. 
+Traditional pothole detection and repair methods are labor-intensive, inefficient, and rely on conventional materials like asphalt, which can be resource-constrained and environmentally unfriendly. 
+These methods result in prolonged road closures, traffic delays, and high maintenance costs.
+A revolutionary approach using advanced technology, sustainable materials, and streamlined processes is crucial. This ensures safer roads, reduces environmental impact, and optimizes resource use.
+## Images of the Bot
+
+<add your image>
+
+## Working Video
+
+<paste your video>
+
+## Block Diagram
+
+<add your image>
+
+## Circuit Diagram
+
+<add your image>
+
+## CAD
+
+<add your image>
+
+## Working
+
+<Type your project's working>
+
+## Source Code 
+Check the file uploading in this repository
+
+## Component List
+|S.No|Name|Quantity|Price(in Rupees)|
+|---|---|---|---|
+|1|Arduino Mega|1|1000|
+|2|Servo Motor|1|100|
+|3|HCSR04 ultrasonic sensor|3|195|
+|4|Holders for HCSR04|3|125|
+|5|L298N motor driver|2|240|
+|6|LCD DISPLAY 16X2|1|120|
+|7|4x4 Keypad|1|70|
+|8|12v DC motor|4|560|
+|9|Chasis|1|220|
+|10|Speed Measuring Sensor|1|40|
+|11|5V 1 Channel Relay|1|80|
+|12|Submersible Mini Water Pump 12v DC|1|70|
+|13|Buzzer|1|20|
+|14|Wheels|4|300|
+|15|12V 1.2Ah Rechargeable Sealed Lead Acid Battery|1|600|
+
+## Future Enhancements
+
+<Type your Future Enchancements here>
+
+
